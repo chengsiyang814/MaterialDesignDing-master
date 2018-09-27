@@ -3,8 +3,7 @@
 
 bottomSheets
 效果如图:
-![BottomSheets效果图]
-(https://upload-images.jianshu.io/upload_images/5017743-503fe0c8a837fd39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/361)
+![BottomSheets效果图](https://github.com/Cdlpj/CdlGalleryViewpager/raw/master/fd39.jpg)  
 
 DrawerLayout
 
