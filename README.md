@@ -3,7 +3,7 @@
 
 bottomSheets
 效果如图:
-![BottomSheets效果图](https://github.com/Cdlpj/MaterialDesignDing-master/raw/master/fd39.jpg)  
+![](https://github.com/Cdlpj/MaterialDesignDing/raw/master/fd39.jpg)  
 
 DrawerLayout
 
