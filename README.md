@@ -4,7 +4,7 @@
 ![](https://upload-images.jianshu.io/upload_images/3485428-a4c980b8ba0ad02e?imageMogr2/auto-orient/strip%7CimageView2/2/w/387)
 bottomSheets效果图:
 
-![](https://github.com/DaLongPJ/MaterialDesignDing-master/raw/master/fd39.png)  
+                ![](https://github.com/DaLongPJ/MaterialDesignDing-master/raw/master/fd39.png)  
 
 DrawerLayout效果图：
 
