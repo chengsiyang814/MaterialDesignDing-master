@@ -4,8 +4,6 @@
 bottomSheets
 效果如图:
 
-![效果图](http://img.blog.csdn.net/20161012222917397)
-
 DrawerLayout
 
 ![效果图](http://upload-images.jianshu.io/upload_images/3485428-f448bae6615efa4c.gif?imageMogr2/auto-orient/strip)
