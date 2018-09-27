@@ -1,11 +1,10 @@
 # MaterialDesignDing
-此Demo用来实现MaterialDesign控件的使用,目前包含BottomSheets、DrawerLayout的代码。
+## 此Demo用来实现MaterialDesign控件的使用,目前包含BottomSheets、DrawerLayout的代码。
+bottomSheets效果图:
 
-bottomSheets
-效果如图:
 ![](https://github.com/DaLongPJ/MaterialDesignDing-master/raw/master/fd39.png)  
 
-DrawerLayout：
+DrawerLayout效果图：
 
 ![效果图](http://upload-images.jianshu.io/upload_images/3485428-f448bae6615efa4c.gif?imageMogr2/auto-orient/strip)
 
